@@ -82,8 +82,6 @@ The implementation leverages the Scapy library to capture and analyze packets on
   TCP Connection Established
   ```
 
-- **Protocol Distribution Pie Chart**:
-  ![Protocol Distribution](protocol_distribution.png)
 
 ## Results and Discussion
 
